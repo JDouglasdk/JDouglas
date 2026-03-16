@@ -24,15 +24,18 @@ class Douglas:
     ubicacion  = "Colombia 🇨🇴"
     
     aprendiendo = [
-        "Python", "PHP", "Java",
-        "JavaScript", "C#"
+        "Python", "PHP", "Java", 
+        "JavaScript", "C#", "MySQL",
+        "SQL", "PostgreSQL"
     ]
     
-    herramientas = ["NetBeans", "Visual Studio Code"]
+    herramientas = ["NetBeans", "Visual Studio Code",
+                    "MySQL Workbench", "pgAdmin"
+                   ]
     
-    proyeccion  = "Especialización en Data Analytics & Backend Development"
+    proyeccion  = "Especialización en Data Analytics & Backend Development."
     
-    frase       = "El código es la forma más poderosa de cambiar el mundo 🚀"
+    frase       = "El desarrollo y la programación constituyen los pilares fundamentales de la evolución tecnológica."
 ```
 
 ---
