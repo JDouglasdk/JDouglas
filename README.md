@@ -83,7 +83,7 @@ class Douglas:
 
 
 ### Herramienta de Visualización 
-![Power BI](https://img.shields.io/badge/Power%20BI%20Desktop-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI]([https://img.shields.io/badge/Power%20BI%20Desktop-F2C811?style=for-the-badge&logo=powerbi&logoColor=black](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black))
 
 
 ### Lenguaje de Análisis 
