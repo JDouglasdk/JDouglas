@@ -23,11 +23,9 @@ class Douglas:
     rol        = "Tecnólogo en Análisis y Desarrollo de Software"
     ubicacion  = "Colombia 🇨🇴"
     
-    aprendiendo = [
-        "Python", "Java", "Power BI",
-        "Power Query", "JavaScript", "MySQL",
-        "SQL", "PostgreSQL"
-    ]
+    aprendiendo = ["Python", "Java", "JavaScript", "SQL",
+                   "DAX"
+                  ]
     
     herramientas = ["NetBeans", "Visual Studio Code", "Power BI Desktop",
                     "MySQL Workbench", "pgAdmin"
@@ -62,10 +60,8 @@ class Douglas:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![DaX]((https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### 🧰 Herramientas & IDEs
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
