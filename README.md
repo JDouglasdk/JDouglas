@@ -129,7 +129,7 @@ class Douglas:
 | 💼 LinkedIn | https://www.linkedin.com/in/douglas-dk-aa71263b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app |
 | 📧 Email | [douglasdk284@gmail.com](mailto:douglasdk284@gmail.com) |
 | 💬 WhatsApp | [+57 316 955 1867](https://wa.me/573169551867) |
-| 🐙 GitHub | [@JDouglas](https://github.com/JDouglas) |
+| 🐙 GitHub | [@JDouglasdk](https://github.com/JDouglasdk) |
 
 </div>
 
